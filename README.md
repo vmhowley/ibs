@@ -1,5 +1,5 @@
-# Hyper - Responsive Admin Template & UI Kit
-We would like to thank you for purchasing Hyper :). The following guideline will help you to get started with the hyper and its documentation.
+# IBSYSTEMS - Responsive Admin Template & UI Kit
+We would like to thank you for purchasing IBSYSTEMS :). The following guideline will help you to get started with the IBSYSTEMS and its documentation.
 
 #### Docs and Examples
 
@@ -40,12 +40,12 @@ From here on out, simply run `gulp` from your terminal and you're good to go!
 
 
 #### Design Files and Assets, Webpack, Angular and Django (Minimal) Versions:
-In order to get design files (PSDs and Sketch files) of the template, `Webpack`, `Angular` or `Django` (minimal – having layouts and all basic UI elements covered in it) integrated versions, please contact us at `support@coderthemes.com`. These are provided as complimentary with Hyper.
+In order to get design files (PSDs and Sketch files) of the template, `Webpack`, `Angular` or `Django` (minimal – having layouts and all basic UI elements covered in it) integrated versions, please contact us at `support@ibsystems.com.do`. These are provided as complimentary with IBSYSTEMS.
 
 #### React
-The react version of Hyper is available as well. Please visit [https://themes.getbootstrap.com/product/hyper-react-admin-dashboard-template/](here).
+The react version of IBSYSTEMS is available as well. Please visit [https://themes.getbootstrap.com/product/IBSYSTEMS-react-admin-dashboard-template/](here).
 
 #### Support
 
-If you experience any problems with the above instruction, or if you think you've found a bug with the theme - please don't hesitate to reach out to support@coderthemes.com.
+If you experience any problems with the above instruction, or if you think you've found a bug with the theme - please don't hesitate to reach out to support@ibsystems.com.do.
 
